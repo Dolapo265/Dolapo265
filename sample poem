@@ -1,5 +1,9 @@
 The rainbow and painting 
+  <<<<<<< colour
+colour 
+  =======
 changes 
+  >>>>>>> main
 red 
 orange 
 yellow 
@@ -7,4 +11,8 @@ blue
 painting 
 green 
 yellow 
+  <<<<<<< colour
+colour 
+=======
 to main 
+    >>>>>>> main
