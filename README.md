@@ -1,6 +1,16 @@
-- 👋 Hi, I’m Dolapo
-- 👀 I’m interested in Software development, Cloud computing, and  AWS.
-- 🌱 I’m currently learning full-stack development, advanced AWS services, and how to integrate CI/CD pipelines in cloud environments.
-- 💞️ I’m looking to collaborate on projects involving cloud infrastructure, automation, and applications that can solve real-world problems.
-- 📫 How to reach me: Feel free to reach out via email or connect with me on LinkedIn.
+Hi, I'm Dolapo 👋
+
+💻 Software Developer Associate
+🚀 Passionate about building tools, solving problems, and writing clean, maintainable code.
+📚 Currently learning: Javascript, web development, and software architecture.
+🎯 Goal: Keep growing as a developer while working on projects that make an impact.
+
+🛠 Tech Stack
+
+Languages: Python, JavaScript
+
+Web: HTML, CSS, React
+
+Tools: Git, VS Code
+- 📫 How to reach me:  connect with me on LinkedIn.
 
