@@ -12,5 +12,5 @@ Languages: Python, JavaScript
 Web: HTML, CSS, React
 
 Tools: Git, VS Code
-- 📫 How to reach me:  connect with me on LinkedIn.
+ 📫 How to reach me:  connect with me on LinkedIn.
 
