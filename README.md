@@ -1,7 +1,7 @@
 Hi, I'm Dolapo 👋
 
 - 💻 Software Developer Associate
-- 🚀 Passionate aboutexperimenting, solving problems, and writing clean, maintainable code.
+- 🚀 Passionate about experimenting, solving problems, and writing clean, maintainable code.
 - 📚 Currently learning: Javascript, web development, and software architecture.
 - 🎯 Goal: Keep growing as a developer while working on projects that make an impact.
 
