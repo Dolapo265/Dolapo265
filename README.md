@@ -1,4 +1,4 @@
-Hi, I'm Dolapo 👋
+Hi, I'm Dolapo
 
 -  Software Developer Associate
 -  Passionate about experimenting, solving problems, and writing clean, maintainable code.
