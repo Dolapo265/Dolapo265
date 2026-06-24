@@ -5,7 +5,7 @@ Hi, I'm Dolapo
 -  Currently learning: Javascript, web development, and software architecture.
 -  Goal: Keep growing as a developer while working on projects that make an impact.
 
-🛠 Tech Stack
+Tech Stack
 
 Languages: Python, JavaScript
 
